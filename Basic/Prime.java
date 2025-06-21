@@ -6,7 +6,7 @@ public class Prime{
         System.out.print("Enter the number:");
         int n = sc.nextInt();
         if(n==2){
-            System.out.print("n is prime number"+5);
+            System.out.print("n is prime number"+n);
         }else{
             boolean isPrime = true;
             for(int i=2; i<Math.sqrt(n); i++){
