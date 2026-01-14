@@ -1,8 +1,4 @@
-# coding_practice
-Coding Practice in JAVA(Basic to Advance)
-
-Q. What I Learn?
-Ans:- 
+## Learn JAVA 
 1. Introduction to Java
 2. Variable and Data type 
 3. Operators and Expressions
